@@ -9,6 +9,7 @@
   "author": "Alexander Gvozdev",
   "license": "ISC",
   "devDependencies": {
+    "@prettier/plugin-xml": "^1.2.0",
     "browser-sync": "^2.26.14",
     "del": "^6.0.0",
     "gulp": "^4.0.2",
@@ -18,7 +19,7 @@
     "gulp-sass": "^4.1.0",
     "gulp-uglify": "^3.0.2",
     "jquery": "^3.5.1",
-    "prettier": "2.5.1"
+    "prettier": "^2.5.1"
   },
   "dependencies": {}
 }
