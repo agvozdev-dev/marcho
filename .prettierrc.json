@@ -1,0 +1,7 @@
+{
+  "quoteProps": "preserve",
+  "jsxSingleQuote": true,
+  "bracketSameLine": true,
+  "arrowParens": "avoid",
+  "htmlWhitespaceSensitivity": "ignore"
+}
